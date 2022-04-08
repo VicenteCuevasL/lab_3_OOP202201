@@ -1,3 +1,5 @@
 El 7 de octubre voy a ver Porcupine tree en vivo.
 
 Porcupine tree es mi banda favorita.
+
+Este es el tercer commit y efectivamente git ignoró la carpeta .gitignore
